@@ -1,0 +1,20 @@
+# n=2(input("enter word"))
+# a=n.count("a")
+# e=n.count("e")
+# i=n.count("i")
+# o=n.count("o")
+# u=n.count("u")
+
+# print("a=",a)
+# print("e=",e)
+# print("i=",i)
+# print("o=",o)
+# print("u=",u)
+
+
+s=input("enter word ")
+a=s.capitalize()
+a=s.upper()
+a=s.startswith("jai")
+a=s.endswith("pur")
+print(a)
